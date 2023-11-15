@@ -58,7 +58,7 @@
   .content{
     width: 80%;
     position: absolute;
-    top: 10%;
+    top: 20%;
     transform: translateY(-50%);
     transform: translateX(+10%);
     text-align:left;
@@ -105,5 +105,13 @@
   .list {
     display: flex;
     flex-wrap: wrap;
-    justify-content:center; /* Adjust as needed */
+    justify-content:left; /* Adjust as needed */
+    margin: 30px auto;
+    font-weight: 100;
+    line-height: 35px;
+    font-size: 24px;
+}
+
+.listExp {
+    margin-left: 50px; /* Add margin between columns */
 }
