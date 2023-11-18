@@ -7,7 +7,7 @@
   
   .banner{
     width: 100%;
-    height: 250vh;
+    height: 235vh;
     background-color: rgba(223,224,218,255);
     background-size:100%; /* background photo spans all of page */
     background-position: center;
@@ -141,4 +141,3 @@
     width: 30%; /* Adjust the width of each column as needed */
     margin-right: 20px; /* Add margin between columns */
 }
-
